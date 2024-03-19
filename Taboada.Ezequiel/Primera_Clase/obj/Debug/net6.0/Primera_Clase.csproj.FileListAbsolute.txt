@@ -1,0 +1,15 @@
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Primera_Clase\bin\Debug\net6.0\Primera_Clase.exe
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Primera_Clase\bin\Debug\net6.0\Primera_Clase.deps.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Primera_Clase\bin\Debug\net6.0\Primera_Clase.runtimeconfig.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Primera_Clase\bin\Debug\net6.0\Primera_Clase.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Primera_Clase\bin\Debug\net6.0\Primera_Clase.pdb
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Primera_Clase\obj\Debug\net6.0\Primera_Clase.csproj.AssemblyReference.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Primera_Clase\obj\Debug\net6.0\Primera_Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Primera_Clase\obj\Debug\net6.0\Primera_Clase.AssemblyInfoInputs.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Primera_Clase\obj\Debug\net6.0\Primera_Clase.AssemblyInfo.cs
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Primera_Clase\obj\Debug\net6.0\Primera_Clase.csproj.CoreCompileInputs.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Primera_Clase\obj\Debug\net6.0\Primera_Clase.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Primera_Clase\obj\Debug\net6.0\refint\Primera_Clase.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Primera_Clase\obj\Debug\net6.0\Primera_Clase.pdb
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Primera_Clase\obj\Debug\net6.0\Primera_Clase.genruntimeconfig.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Primera_Clase\obj\Debug\net6.0\ref\Primera_Clase.dll
