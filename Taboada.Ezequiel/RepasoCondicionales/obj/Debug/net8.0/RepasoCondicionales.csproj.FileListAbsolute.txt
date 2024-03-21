@@ -1,0 +1,15 @@
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoCondicionales\bin\Debug\net8.0\RepasoCondicionales.exe
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoCondicionales\bin\Debug\net8.0\RepasoCondicionales.deps.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoCondicionales\bin\Debug\net8.0\RepasoCondicionales.runtimeconfig.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoCondicionales\bin\Debug\net8.0\RepasoCondicionales.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoCondicionales\bin\Debug\net8.0\RepasoCondicionales.pdb
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.AssemblyInfoInputs.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.AssemblyInfo.cs
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.sourcelink.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoCondicionales\obj\Debug\net8.0\refint\RepasoCondicionales.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.pdb
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.genruntimeconfig.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoCondicionales\obj\Debug\net8.0\ref\RepasoCondicionales.dll
