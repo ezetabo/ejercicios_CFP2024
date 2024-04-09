@@ -1,0 +1,15 @@
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoSwitch\bin\Debug\net8.0\RepasoSwitch.exe
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoSwitch\bin\Debug\net8.0\RepasoSwitch.deps.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoSwitch\bin\Debug\net8.0\RepasoSwitch.runtimeconfig.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoSwitch\bin\Debug\net8.0\RepasoSwitch.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoSwitch\bin\Debug\net8.0\RepasoSwitch.pdb
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoSwitch\obj\Debug\net8.0\RepasoSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoSwitch\obj\Debug\net8.0\RepasoSwitch.AssemblyInfoInputs.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoSwitch\obj\Debug\net8.0\RepasoSwitch.AssemblyInfo.cs
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoSwitch\obj\Debug\net8.0\RepasoSwitch.csproj.CoreCompileInputs.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoSwitch\obj\Debug\net8.0\RepasoSwitch.sourcelink.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoSwitch\obj\Debug\net8.0\RepasoSwitch.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoSwitch\obj\Debug\net8.0\refint\RepasoSwitch.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoSwitch\obj\Debug\net8.0\RepasoSwitch.pdb
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoSwitch\obj\Debug\net8.0\RepasoSwitch.genruntimeconfig.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\RepasoSwitch\obj\Debug\net8.0\ref\RepasoSwitch.dll

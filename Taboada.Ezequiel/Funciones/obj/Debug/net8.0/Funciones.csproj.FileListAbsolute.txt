@@ -1,0 +1,15 @@
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Funciones\bin\Debug\net8.0\Funciones.exe
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Funciones\bin\Debug\net8.0\Funciones.deps.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Funciones\bin\Debug\net8.0\Funciones.runtimeconfig.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Funciones\bin\Debug\net8.0\Funciones.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Funciones\bin\Debug\net8.0\Funciones.pdb
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Funciones\obj\Debug\net8.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Funciones\obj\Debug\net8.0\Funciones.AssemblyInfoInputs.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Funciones\obj\Debug\net8.0\Funciones.AssemblyInfo.cs
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Funciones\obj\Debug\net8.0\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Funciones\obj\Debug\net8.0\Funciones.sourcelink.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Funciones\obj\Debug\net8.0\Funciones.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Funciones\obj\Debug\net8.0\refint\Funciones.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Funciones\obj\Debug\net8.0\Funciones.pdb
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Funciones\obj\Debug\net8.0\Funciones.genruntimeconfig.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Funciones\obj\Debug\net8.0\ref\Funciones.dll

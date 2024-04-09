@@ -1,0 +1,15 @@
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Repaso_bucles\bin\Debug\net8.0\Repaso_bucles.exe
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Repaso_bucles\bin\Debug\net8.0\Repaso_bucles.deps.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Repaso_bucles\bin\Debug\net8.0\Repaso_bucles.runtimeconfig.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Repaso_bucles\bin\Debug\net8.0\Repaso_bucles.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Repaso_bucles\bin\Debug\net8.0\Repaso_bucles.pdb
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Repaso_bucles\obj\Debug\net8.0\Repaso_bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Repaso_bucles\obj\Debug\net8.0\Repaso_bucles.AssemblyInfoInputs.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Repaso_bucles\obj\Debug\net8.0\Repaso_bucles.AssemblyInfo.cs
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Repaso_bucles\obj\Debug\net8.0\Repaso_bucles.csproj.CoreCompileInputs.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Repaso_bucles\obj\Debug\net8.0\Repaso_bucles.sourcelink.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Repaso_bucles\obj\Debug\net8.0\Repaso_bucles.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Repaso_bucles\obj\Debug\net8.0\refint\Repaso_bucles.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Repaso_bucles\obj\Debug\net8.0\Repaso_bucles.pdb
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Repaso_bucles\obj\Debug\net8.0\Repaso_bucles.genruntimeconfig.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Repaso_bucles\obj\Debug\net8.0\ref\Repaso_bucles.dll

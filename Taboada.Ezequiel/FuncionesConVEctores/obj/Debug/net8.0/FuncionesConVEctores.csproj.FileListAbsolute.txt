@@ -1,0 +1,15 @@
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\obj\Debug\net8.0\FuncionesConVEctores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\obj\Debug\net8.0\FuncionesConVEctores.AssemblyInfoInputs.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\obj\Debug\net8.0\FuncionesConVEctores.AssemblyInfo.cs
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\obj\Debug\net8.0\FuncionesConVEctores.csproj.CoreCompileInputs.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\obj\Debug\net8.0\FuncionesConVEctores.sourcelink.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\bin\Debug\net8.0\FuncionesConVEctores.exe
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\bin\Debug\net8.0\FuncionesConVEctores.deps.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\bin\Debug\net8.0\FuncionesConVEctores.runtimeconfig.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\bin\Debug\net8.0\FuncionesConVEctores.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\bin\Debug\net8.0\FuncionesConVEctores.pdb
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\obj\Debug\net8.0\FuncionesConVEctores.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\obj\Debug\net8.0\refint\FuncionesConVEctores.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\obj\Debug\net8.0\FuncionesConVEctores.pdb
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\obj\Debug\net8.0\FuncionesConVEctores.genruntimeconfig.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\obj\Debug\net8.0\ref\FuncionesConVEctores.dll
