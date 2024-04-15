@@ -13,3 +13,7 @@ C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesC
 C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\obj\Debug\net8.0\FuncionesConVEctores.pdb
 C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\obj\Debug\net8.0\FuncionesConVEctores.genruntimeconfig.cache
 C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\obj\Debug\net8.0\ref\FuncionesConVEctores.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\bin\Debug\net8.0\LibreriaDeFunciones.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\bin\Debug\net8.0\LibreriaDeFunciones.pdb
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\obj\Debug\net8.0\FuncionesConVEctores.csproj.AssemblyReference.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\FuncionesConVEctores\obj\Debug\net8.0\Funcione.8E50CD6B.Up2Date

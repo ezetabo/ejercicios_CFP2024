@@ -27,6 +27,70 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ezequiel.taboada\\Desktop\\ejercicios_CFP2024\\Taboada.Ezequiel\\LibreriaDeFunciones\\LibreriaDeFunciones.csproj": {
+                "projectPath": "C:\\Users\\ezequiel.taboada\\Desktop\\ejercicios_CFP2024\\Taboada.Ezequiel\\LibreriaDeFunciones\\LibreriaDeFunciones.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ezequiel.taboada\\Desktop\\ejercicios_CFP2024\\Taboada.Ezequiel\\LibreriaDeFunciones\\LibreriaDeFunciones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ezequiel.taboada\\Desktop\\ejercicios_CFP2024\\Taboada.Ezequiel\\LibreriaDeFunciones\\LibreriaDeFunciones.csproj",
+        "projectName": "LibreriaDeFunciones",
+        "projectPath": "C:\\Users\\ezequiel.taboada\\Desktop\\ejercicios_CFP2024\\Taboada.Ezequiel\\LibreriaDeFunciones\\LibreriaDeFunciones.csproj",
+        "packagesPath": "C:\\Users\\ezequiel.taboada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ezequiel.taboada\\Desktop\\ejercicios_CFP2024\\Taboada.Ezequiel\\LibreriaDeFunciones\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ezequiel.taboada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -60,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

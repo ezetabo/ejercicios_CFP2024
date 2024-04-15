@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TrabajandoConArrays/1.0.0": {
+        "dependencies": {
+          "LibreriaDeFunciones": "1.0.0"
+        },
+        "runtime": {
+          "TrabajandoConArrays.dll": {}
+        }
+      },
+      "LibreriaDeFunciones/1.0.0": {
+        "runtime": {
+          "LibreriaDeFunciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrabajandoConArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaDeFunciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

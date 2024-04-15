@@ -1,0 +1,12 @@
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Automoviles\bin\Debug\net8.0\Automoviles.deps.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Automoviles\bin\Debug\net8.0\Automoviles.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Automoviles\bin\Debug\net8.0\Automoviles.pdb
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Automoviles\obj\Debug\net8.0\Automoviles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Automoviles\obj\Debug\net8.0\Automoviles.AssemblyInfoInputs.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Automoviles\obj\Debug\net8.0\Automoviles.AssemblyInfo.cs
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Automoviles\obj\Debug\net8.0\Automoviles.csproj.CoreCompileInputs.cache
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Automoviles\obj\Debug\net8.0\Automoviles.sourcelink.json
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Automoviles\obj\Debug\net8.0\Automoviles.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Automoviles\obj\Debug\net8.0\refint\Automoviles.dll
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Automoviles\obj\Debug\net8.0\Automoviles.pdb
+C:\Users\ezequiel.taboada\Desktop\ejercicios_CFP2024\Taboada.Ezequiel\Automoviles\obj\Debug\net8.0\ref\Automoviles.dll
