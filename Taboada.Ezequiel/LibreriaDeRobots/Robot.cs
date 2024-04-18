@@ -1,16 +1,17 @@
 ﻿using System.Drawing;
-using System.Reflection.Metadata;
 
 namespace LibreriaDeRobots
 {
+
     ///******* CASTEOS o CONVERSIONES (EXPLICITAS O IMPLICITAS)  ********/
-    //double doble1 = 158.22;
-    //int entero2 = 8000;
-    //int entero;
-    //double doble;
-    //doble = entero2; //-> un casteo o concersion del tipo implicita, no implica perdidad de datos.
-    //entero = (int)doble1; // un casteo o version del explicita, implica posible perdida de datos.
-    //// se pueden utilizar tanto en asignacion como en operaciones mateticas.
+    //double unDouble = 158.22;
+    //int unEntero = 8000;
+    //int otroEntero;
+    //double otroDouble;
+    //otroDouble = unEntero; //-> conversion implicita, no implica perdidad de datos.
+    //otroEntero = (int)unDouble; // casteo o conversion explicita, implica posible perdida de datos.
+    // se pueden utilizar tanto en asignacion como en operaciones matematicas.
+
     public class Robot
     {
         //atributos
@@ -19,11 +20,8 @@ namespace LibreriaDeRobots
         double peso;
         Color color;
         int vida;
-        public int energia;
+        public int energia; //public despues se debe crear un get
         static Random rnd;
-
-
-
 
         // setters
         public bool SetColor(Color nuevoColor)
@@ -66,7 +64,7 @@ namespace LibreriaDeRobots
             return vida;
         }
 
-        // ctor
+        // ctor de instancia
         public Robot(string nombre, int resistencia, double peso)
         {
             this.nombre = nombre;
@@ -77,6 +75,7 @@ namespace LibreriaDeRobots
             this.energia = 100;
         }
 
+        // ctor static
         static Robot()
         {
             Robot.rnd = new Random();
@@ -91,25 +90,24 @@ namespace LibreriaDeRobots
 
 
         public int Atacar()
-        {
-            // el golpe supera un rango de daño, resta mas energia.
+        {           
             int golpe = 0;
-            // por cada ataque pierde energia
 
-            // en base a la energia se potencia el golpe        
-
+            // en base a la energia se calcula el golpe        
             if (vida > 0 && energia > 0)
             {
                 golpe = Robot.rnd.Next(1, this.energia);
             }
+
+            // por cada ataque pierde energia
             this.energia -= 5;
 
+            //aumentamos el el daño porque vimos que era muy poco
             return golpe * rnd.Next(1,3);
         }
 
         public void RecibirDanio(int cantidadDaño)
         {
-            // por cada golpe recibido bajar resistencia (haga o no daño)
 
             int dañoTotal = (int)resistencia - cantidadDaño;
             if (dañoTotal < 0)
@@ -117,11 +115,13 @@ namespace LibreriaDeRobots
                 this.vida += dañoTotal;
             }
 
+            //la vida no puede ser negativa
             if (this.vida < 0)
             {
                 this.vida = 0;
             }
 
+            // por cada golpe recibido bajar resistencia (reciba o no daño)
             this.resistencia = this.resistencia * 0.95;
         }
 

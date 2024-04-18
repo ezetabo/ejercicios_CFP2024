@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ezequiel.taboada\\Desktop\\ejercicios_CFP2024\\Taboada.Ezequiel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C627759C-1C8F-4D60-A8F2-1E787FEE566B}|LibreriaDeRobots\\LibreriaDeRobots.csproj|c:\\users\\ezequiel.taboada\\desktop\\ejercicios_cfp2024\\taboada.ezequiel\\libreriaderobots\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C627759C-1C8F-4D60-A8F2-1E787FEE566B}|LibreriaDeRobots\\LibreriaDeRobots.csproj|solutionrelative:libreriaderobots\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B8CD01A2-C155-4A0E-A212-BD83A2BEF1BB}|testeoDeRobots\\TesteoDeRobots.csproj|c:\\users\\ezequiel.taboada\\desktop\\ejercicios_cfp2024\\taboada.ezequiel\\testeoderobots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8CD01A2-C155-4A0E-A212-BD83A2BEF1BB}|testeoDeRobots\\TesteoDeRobots.csproj|solutionrelative:testeoderobots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C627759C-1C8F-4D60-A8F2-1E787FEE566B}|LibreriaDeRobots\\LibreriaDeRobots.csproj|c:\\users\\ezequiel.taboada\\desktop\\ejercicios_cfp2024\\taboada.ezequiel\\libreriaderobots\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C627759C-1C8F-4D60-A8F2-1E787FEE566B}|LibreriaDeRobots\\LibreriaDeRobots.csproj|solutionrelative:libreriaderobots\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 403,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,26 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ezequiel.taboada\\Desktop\\ejercicios_CFP2024\\Taboada.Ezequiel\\testeoDeRobots\\Program.cs",
               "RelativeDocumentMoniker": "testeoDeRobots\\Program.cs",
               "ToolTip": "C:\\Users\\ezequiel.taboada\\Desktop\\ejercicios_CFP2024\\Taboada.Ezequiel\\testeoDeRobots\\Program.cs",
               "RelativeToolTip": "testeoDeRobots\\Program.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAQwA8AAAALAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwDkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T23:52:27.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Robot.cs",
               "DocumentMoniker": "C:\\Users\\ezequiel.taboada\\Desktop\\ejercicios_CFP2024\\Taboada.Ezequiel\\LibreriaDeRobots\\Robot.cs",
               "RelativeDocumentMoniker": "LibreriaDeRobots\\Robot.cs",
               "ToolTip": "C:\\Users\\ezequiel.taboada\\Desktop\\ejercicios_CFP2024\\Taboada.Ezequiel\\LibreriaDeRobots\\Robot.cs",
               "RelativeToolTip": "LibreriaDeRobots\\Robot.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAewHsAAAAAAAAA",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAAH4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T23:35:42.962Z",
               "EditorCaption": ""

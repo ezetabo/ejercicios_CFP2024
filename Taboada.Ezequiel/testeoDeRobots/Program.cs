@@ -1,6 +1,4 @@
 ﻿using LibreriaDeRobots;
-using System.Drawing;
-using System.Security.AccessControl;
 
 namespace testeoDeRobots
 {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TesteoDeRobots")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9efa55e7a26a193ce617a430a0116a7b12f3bf98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+390bffb1bc547519865efac77410e1289a6ed724")]
 [assembly: System.Reflection.AssemblyProductAttribute("TesteoDeRobots")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TesteoDeRobots")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
