@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{C627759C-1C8F-4D60-A8F2-1E787FEE566B}|LibreriaDeRobots\\LibreriaDeRobots.csproj|solutionrelative:libreriaderobots\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8CD01A2-C155-4A0E-A212-BD83A2BEF1BB}|testeoDeRobots\\testeoDeRobots.csproj|c:\\users\\ezequiel.taboada\\desktop\\ejercicios_cfp2024\\taboada.ezequiel\\testeoderobots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8CD01A2-C155-4A0E-A212-BD83A2BEF1BB}|testeoDeRobots\\testeoDeRobots.csproj|solutionrelative:testeoderobots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8CD01A2-C155-4A0E-A212-BD83A2BEF1BB}|testeoDeRobots\\TesteoDeRobots.csproj|c:\\users\\ezequiel.taboada\\desktop\\ejercicios_cfp2024\\taboada.ezequiel\\testeoderobots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CD01A2-C155-4A0E-A212-BD83A2BEF1BB}|testeoDeRobots\\TesteoDeRobots.csproj|solutionrelative:testeoderobots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "testeoDeRobots\\Program.cs",
               "ToolTip": "C:\\Users\\ezequiel.taboada\\Desktop\\ejercicios_CFP2024\\Taboada.Ezequiel\\testeoDeRobots\\Program.cs",
               "RelativeToolTip": "testeoDeRobots\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBYAAAAIAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwA8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T23:52:27.926Z",
               "EditorCaption": ""
@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "LibreriaDeRobots\\Robot.cs",
               "ToolTip": "C:\\Users\\ezequiel.taboada\\Desktop\\ejercicios_CFP2024\\Taboada.Ezequiel\\LibreriaDeRobots\\Robot.cs",
               "RelativeToolTip": "LibreriaDeRobots\\Robot.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAwwFAAAAAmAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAewHsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T23:35:42.962Z",
               "EditorCaption": ""
